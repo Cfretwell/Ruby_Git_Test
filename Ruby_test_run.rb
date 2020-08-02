@@ -8,3 +8,10 @@ end
 
 
 printathing("Hello World ")
+
+
+
+def func_two
+
+    p "function two"
+end
